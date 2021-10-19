@@ -1,0 +1,15 @@
+{
+  "name": "dog_breeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "jest": "^27.3.1"
+  }
+}

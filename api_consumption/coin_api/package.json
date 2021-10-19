@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.23.0",
+    "jest": "^27.3.1",
+    "node-fetch": "^3.0.0"
+  },
+  "name": "api_consumption",
+  "version": "1.0.0",
+  "main": "coin_api.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
